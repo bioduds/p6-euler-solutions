@@ -10,7 +10,7 @@ use v6;
 ## timer of solution
 my $t1 = now;
 my $answer is rw;
-say "My answer:\n" ~ $answer ~ " timed: " ~ ( now - $t1 );
+say "My answer:\n $answer \ntimed: " ~ ( now - $t1 );
 
 
 
