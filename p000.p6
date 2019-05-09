@@ -9,7 +9,7 @@ use v6;
 
 ## timer of solution
 my $t1 = now;
-my $answer is rw;
+my $answer;
 say "My answer:\n $answer \ntimed: " ~ ( now - $t1 );
 
 
@@ -17,7 +17,8 @@ say "My answer:\n $answer \ntimed: " ~ ( now - $t1 );
 ############################
 ## Answers
 
-# [author]
-say "[author] answer:";
-$t1 = now;
-## code..
+# [Answer by Nayuki - https://github.com/nayuki/Project-Euler-solutions/blob/master/Answers.txt]
+say "Nayuki answer: ---";
+# [Answer by luckytoilet - https://github.com/luckytoilet/projecteuler-solutions/blob/master/Solutions.md
+say "luckytoilet answer: ---";
+
